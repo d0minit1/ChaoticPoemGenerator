@@ -66,7 +66,7 @@ public class PoemGenerator {
             // Add the topic to the list of words
             words.add(topic);
 
-            System.out.println("\nYour poem:");
+            System.out.println("\nYour poem:\n");
 
             // Generate and print poem lines
             for (int i = 0; i < 4; i++) {
